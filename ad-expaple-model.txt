@@ -1,0 +1,12 @@
+ $result = array(
+            "result" => "true",
+            "message" => "success",
+            "data" => array(
+            "app_name" => $entry['app_name'],
+            "app_id" => $entry['admob_app_id'],
+            'banner_ad_id' => $entry['banner_ad_id'],
+            'full_screen_ad_id' => $entry['full_screen_ad_id'],
+            'native_ad_id' => $entry['native_ad_id'],
+            'rewarded_ad_id' => $entry['rewarded_ad_id'],
+            'open_ad_id' => $entry['open_ad_id']
+            )
