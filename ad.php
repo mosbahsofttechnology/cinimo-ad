@@ -1,6 +1,6 @@
 {
-"result": "false",
-"message": "not found",
+"result": "true",
+"message": "success",
 "data": {
   "app_name" : "test",
   "app_id" : "id",
